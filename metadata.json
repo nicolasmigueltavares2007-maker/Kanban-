@@ -1,0 +1,6 @@
+{
+  "name": "CRM Kanban",
+  "description": "CRM com fluxo Kanban para gestão manual de tarefas e clientes com status Não iniciado, Em Andamento e Finalizado, integrado ao Supabase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
